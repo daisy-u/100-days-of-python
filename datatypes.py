@@ -13,3 +13,10 @@ print(3.1456789)
 #Boolean
 True
 False
+
+#Type Checking
+a = 123
+print(type(a))
+
+#Type Casting
+print(70 + float("100.5"))
