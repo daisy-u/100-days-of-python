@@ -20,3 +20,13 @@ print(type(a))
 
 #Type Casting
 print(70 + float("100.5"))
+
+#Mathematical Operators
+# P ()
+# E **
+# M *
+# D /
+# A +
+# S -
+# Left->Right
+#Multiplication and Division happen simultaneuosly
