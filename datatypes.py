@@ -30,3 +30,19 @@ print(70 + float("100.5"))
 # S -
 # Left->Right
 #Multiplication and Division happen simultaneuosly
+
+#Mathematical Operations
+print(int(8 / 3)) 
+#or
+print(8 // 3)
+print(round(8 / 3))
+#or round to 2 decimal places
+print(round(8 / 3, 2))
+#save results to variables to continue calculating
+
+#F-string
+#type the character f in front of a string to hold multiple value types e.g
+score = 0
+height = 1.8
+isWinning = True
+print(f"your score is {score}, your height is {height}, you are winning is {isWinning})
