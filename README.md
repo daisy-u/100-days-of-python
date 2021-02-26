@@ -2,4 +2,5 @@
 Challenging myself to master Python in 100 days. Daily exercises will be posted to this repo
 
 ## Projects
+### Beginner Level
 - Day 1: Band Name Generator
