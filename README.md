@@ -8,3 +8,4 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 3: Treasure Island
 - Day 4: Rock Paper Scissors
 - Day 5: Password Generator
+- Day 6: Escape The Maze
