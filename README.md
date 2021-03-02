@@ -7,3 +7,4 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 2: Tip Calculator
 - Day 3: Treasure Island
 - Day 4: Rock Paper Scissors
+- Day 5: Password Generator
