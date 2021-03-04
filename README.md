@@ -11,3 +11,4 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 6: Escape The Maze
 - Day 7: Hangman
 - Day 8: Caesar Cipher
+- Day 9: Secret Auction
