@@ -14,3 +14,4 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 9: Secret Auction
 - Day 10: Calculator
 - Day 11: BlackJack
+- Day 12: Number Guessing Game
