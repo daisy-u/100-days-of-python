@@ -16,3 +16,6 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 11: BlackJack
 - Day 12: Number Guessing Game
 - Day 13: Debugging
+- Day 14: Higher Lower Game
+
+
