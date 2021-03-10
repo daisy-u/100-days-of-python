@@ -19,3 +19,4 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 14: Higher Lower Game
 
 ### Intermediate Python
+- Day 15: Coffee Machine
