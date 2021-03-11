@@ -20,3 +20,4 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 
 ### Intermediate Python
 - Day 15: Coffee Machine
+- Day 16: OOP Coffee machine
