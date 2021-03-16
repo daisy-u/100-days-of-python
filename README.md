@@ -25,4 +25,4 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 18: Turtle Challenge
 - Day 19: Turtle Race
 - Day 20: Snake Game
-- Day 21: 
+- Day 21: Pong Arcade Game
