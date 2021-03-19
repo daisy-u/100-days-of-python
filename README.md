@@ -25,6 +25,6 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 18: Turtle Challenge
 - Day 19: Turtle Race
 - Day 20: Snake Game 1
-- Day 21: Sanke Game 2
-- Day 21: Pong Arcade Game
-- Day 22: Turtle Crossing Game
+- Day 21: Snake Game 2
+- Day 22: Pong Arcade Game
+- Day 23: Turtle Crossing Game
