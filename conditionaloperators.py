@@ -8,3 +8,6 @@
 
 # Conditional Operators
 # if, else, elif
+
+# Nested Conitional
+# Using elif
