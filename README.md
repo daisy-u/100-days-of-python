@@ -29,4 +29,4 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 22: Pong Arcade Game
 - Day 23: Turtle Crossing Game
 - Day 24: Mail Merge
-- Day 25:
+- Day 25: U.S States Game
