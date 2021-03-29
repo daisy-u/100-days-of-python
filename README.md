@@ -30,4 +30,4 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 23: Turtle Crossing Game
 - Day 24: Mail Merge
 - Day 25: U.S States Game
-So I'm kinda stuck on Day 25. Things are getting serious and my knowledge is expanding, however I'm wondering if I should start duplicating these projects in Javascript for my portfolio. I want to succeed as a dev so bad but I am so nervous. I will keep practicing tho
+
