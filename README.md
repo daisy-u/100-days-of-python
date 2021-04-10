@@ -30,5 +30,5 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 23: Turtle Crossing Game
 - Day 24: Mail Merge
 - Day 25: U.S States Game
-that stupid smelly ass bitch
+i hope she slips, falls and breaks her stupid fucking neck and she ca take the other fat ass bully with her on their way to fucking hell
 
