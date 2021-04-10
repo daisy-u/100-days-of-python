@@ -30,5 +30,5 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 23: Turtle Crossing Game
 - Day 24: Mail Merge
 - Day 25: U.S States Game
-i worked will a smelly stupid bitch ass surgeon today who could barely insufflate a normal healthy patient without calling for help but had the audacity to be condescending to me about how i positioned the patient
+that stupid smelly ass bitch
 
