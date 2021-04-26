@@ -30,4 +30,4 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 23: Turtle Crossing Game
 - Day 24: Mail Merge
 - Day 25: U.S States Game
-I can't wait to be a badass programmer with my future inventions and apps
+put me back in, coach. I'm barely getting started
