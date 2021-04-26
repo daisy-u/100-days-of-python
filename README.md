@@ -30,4 +30,4 @@ Challenging myself to master Python in 100 days. Daily exercises will be posted 
 - Day 23: Turtle Crossing Game
 - Day 24: Mail Merge
 - Day 25: U.S States Game
-i just have to find the right kindling
+this is the last week of this hellish travel contract i've been in since January
